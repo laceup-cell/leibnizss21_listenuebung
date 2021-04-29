@@ -15,7 +15,7 @@ def minmax(liste):
 def spannweite(liste):
     pass
 
-ergebnis = summe([2, 4.3, -1, 9])
+ergebnis = summe([2, 4.3, -1, 9, 10, 11])
 print(ergebnis) # Ausgabe: 14.3
 
 
