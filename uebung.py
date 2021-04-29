@@ -6,7 +6,8 @@ def summe(liste):
     return menge
 
 def mittelwert(liste):
-    pass
+    summe(liste)
+    return summe(liste)/len(liste)
 
 def minmax(liste):
     pass
